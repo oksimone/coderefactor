@@ -21,7 +21,7 @@ From my code, I know that I needed to add/change the following:
 6. change the title 
 7. fix the order of the css code and condense the code
 
-- The first thing I did was change the header "div class" to "nav class." Then, I deleted the div tags that wrapped the <ul> and replaced them with <nav> tags. After that, I wrapped the nav tags with header tags.
+- The first thing I did was change the header "div class" to "nav class." Then, I deleted the div tags that wrapped the &lt;ul&gt; and replaced them with &lt;nav&gt; tags. After that, I wrapped the nav tags with header tags.
 
 - I only left one div tag in the code, which was the hero. I didn't think it was necessary to change the tag. 
 
